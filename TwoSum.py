@@ -7,7 +7,6 @@ def twoSum(nums, target):
                 return [i, j]
     return None
 
-
 def main():
     # Take user input for the list of numbers
     nums_input = input("Enter numbers separated by spaces: ")
