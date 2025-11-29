@@ -4,7 +4,6 @@ class ListNode:
         self.val = val
         self.next = next
 
-
 # Helper Functions
 
 def build_linked_list(nums):
@@ -76,5 +75,5 @@ result = sol.addTwoNumbers(l1, l2)
 # Output
 
 print_linked_list(result)
-print_number(result)
+print_number(result) 
 
