@@ -27,6 +27,5 @@ def myAtoi(s: str) -> int:
 
     return result * sign
 
-
 user_input = input("Enter a string: ")
 print(myAtoi(user_input))
